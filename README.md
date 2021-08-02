@@ -1,7 +1,7 @@
 <h2 align="center">Hello 👋, I'm Riya</h2>
 <h3 align="center">Passionate Learner</h3>
  
-  <img src="imgcc++.jpeg" width="1500" height="350"/>
+  <img src="imgcc++.jpeg" width="1500" height="250"/>
   <p align="center">I am Riya Kumari, Sophomore at MANIT Bhopal. I am currently exploring different Computer Languages.</p>  
 
 <h3 align="left">Skills:</h3>
